@@ -14,14 +14,14 @@ body {
 }
 
 .container {
-  width: 800px;
+  width: 1200px;
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto;
 }
 
 .main-header {
-  background-color: red;
+  background-color: #f7f7f7;
   /* padding: 20px;
   padding-left: 40px;
   padding-right: 40px; */
@@ -48,10 +48,7 @@ aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
-  /* padding-top: 50px;
-  padding-bottom: 50px; */
-  padding: 50px 0;
-  width: 500px;
+  padding: 50px 40px;
 }
 
 /* SMALLER ELEMENTS */
@@ -134,6 +131,7 @@ li:last-child {
 
 .related {
   list-style: none;
+  margin-left: 0;
 }
 
 body {
@@ -272,7 +270,6 @@ nav p {
   margin-bottom: 20px;
 }
 .author-txt {
-  /* padding-left: 80px; */
   float: right;
   margin-top: 10px;
   margin-left: 20px;
@@ -284,11 +281,6 @@ h1 {
 nav {
   float: right;
 }
-
-/* Clear both floats  */
-/* .clear {
-  clear: both;
-} */
 
 /* Clearfix hack.
    The `after` element inserts a new element at the end of the container.
@@ -302,4 +294,21 @@ nav {
   clear: both;
   content: "";
   display: block;
+}
+
+article {
+  /* background-color: green; */
+  width: 825px;
+  float: left;
+}
+
+aside {
+  /* background-color: red; */
+  width: 300px;
+  float: right;
+}
+
+footer {
+  /* background-color: yellow; */
+  clear: both;
 }
