@@ -21,7 +21,7 @@ body {
 }
 
 .main-header {
-  background-color: #f7f7f7;
+  background-color: red;
   /* padding: 20px;
   padding-left: 40px;
   padding-right: 40px; */
@@ -283,4 +283,23 @@ h1 {
 }
 nav {
   float: right;
+}
+
+/* Clear both floats  */
+/* .clear {
+  clear: both;
+} */
+
+/* Clearfix hack.
+   The `after` element inserts a new element at the end of the container.
+   The `after` element only appears if we define something for the content property,
+   even if it is just empty text.
+   We must set display to block because clearing floats only works on a block-level element.
+   Then clearfix should be added to the top level element that contains both float elements
+   (header in this case).
+*/
+.clearfix::after {
+  clear: both;
+  content: "";
+  display: block;
 }
