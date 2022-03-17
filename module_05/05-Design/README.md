@@ -5,6 +5,12 @@
 - [Google Fonts Website](https://fonts.google.com/)
 - [Type-Scale.com](https://type-scale.com/)
 
+## Important Properties for Text
+
+1. font-size
+1. line-height
+1. letter-spacing
+
 ## Website Personalities
 
 ### Serious/Elegant
