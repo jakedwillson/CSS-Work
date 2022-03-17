@@ -126,6 +126,7 @@
 #### Generating Accent Colors
 
 1. [palleton](https://www.palleton.com/)
+1. [coolors](https://coolors.co/)
 
 #### Generating Tints and Shades
 
