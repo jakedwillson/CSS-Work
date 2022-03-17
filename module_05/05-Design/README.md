@@ -97,3 +97,35 @@
 1. Cormorant
 1. Cardo
 1. Lora
+
+## Choose the Right Color
+
+1. Make the main color match your website's personality: colors convey meaning!
+1. Use a good color tone! Don't choose a random tone or CSS named colors.
+
+### Specific Colors
+
+1. Red draws a lot of attention, and symbolizes power, passion and excitement
+1. Orange is less aggressive, and conveys happiness, cheerfulness and creativity
+1. Yellow means joy, brightness and intelligence
+1. Green represents harmony, nature, growth and health
+1. `Blue` is associated with peace, trustworthiness and professionalism (most common)
+1. Purple conveys wealth, wisdom and magic
+1. Pink represents romance, care and affection
+1. Brown represents nature, durability and comfort
+1. Black symbolizes power, elegance and minimalism, but also grief and sorrow
+
+### Color Tone
+
+#### Heading 4
+
+1. [Open Color](https://yeun.github.io/open-color/)
+1. [Flat UI Colors 2](https://flatuicolors.com/)
+1. [tailwindcss](https://tailwindcss.com/)
+
+### Establish a Color System
+
+1. You need at least two types of colors in your color palette: a main color and a grey color (the grey color does not necessarily need to be a "true grey", it can be a very dark version of another color, like blue)
+1. With more experience, you can add more colors: accent colors (use a tool). There should be a relationship between the main and accent color, which is why you should use a tool
+1. For diversity, create lighter and darker "versions" - tints (lighter) and shades (darker)
+
