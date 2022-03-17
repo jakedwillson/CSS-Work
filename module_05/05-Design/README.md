@@ -1,5 +1,10 @@
 # Web Design Rules and Framework
 
+## Resources
+
+- [Google Fonts Website](https://fonts.google.com/)
+- [Type-Scale.com](https://type-scale.com/)
+
 ## Website Personalities
 
 ### Serious/Elegant
