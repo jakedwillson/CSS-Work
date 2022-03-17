@@ -117,11 +117,19 @@
 
 ### Color Tone
 
-#### Heading 4
+#### Generating Colors
 
 1. [Open Color](https://yeun.github.io/open-color/)
 1. [Flat UI Colors 2](https://flatuicolors.com/)
 1. [tailwindcss](https://tailwindcss.com/)
+
+#### Generating Accent Colors
+
+1. [palleton](https://www.palleton.com/)
+
+#### Generating Tints and Shades
+
+1. [Tint & Shade Generator](https://maketintsandshades.com/)
 
 ### Establish a Color System
 
