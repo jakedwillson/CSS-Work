@@ -241,3 +241,27 @@
 ### Notes
 
 1. You can make an element round by giving it a border-radius of 50%
+
+## Whitespace
+
+- It is technically invisible, but it is one of the easiest and fastest ways of drastically improving your designs
+
+### Why Whitespace
+
+1. The right amount of whitespace makes designs look clean, modern and polished
+1. Whitespace communicates how the different pieces of information are related to one another
+1. Whitespace implies invisible relationships between the elements of a layout
+
+### Where to Use Whitespace
+
+1. Use tons of whitespace between sections
+1. Use a lot of whitespace between groups of elements
+1. Use whitespace between elements
+1. Inside groups of elements, try to use whitespace instead of lines
+
+### How Much Whitespace
+
+1. The more some elements belong together, the closer they should be (i.e. the "Law of Proximity")
+1. Start with a lot of whitespace, maybe even too much! Then remove whitespace from there (too much whitespace looks detached, too little looks too crammed)
+1. Match other design choices. If you have big text or big icons, you need more whitespace
+1. Try a hard rule, such as using multiples of 16 for all spacing
