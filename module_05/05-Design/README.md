@@ -195,3 +195,4 @@
 1. [Phosphor Icons](https://phosphoricons.com/)
 1. [Ionicons](https://ionic.io/ionicons)
 1. [ICONS8](https://icons8.com/)
+1. [heroicons](https://heroicons.com/)
