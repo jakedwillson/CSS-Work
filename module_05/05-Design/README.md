@@ -102,6 +102,12 @@
 
 1. Make the main color match your website's personality: colors convey meaning!
 1. Use a good color tone! Don't choose a random tone or CSS named colors.
+1. Use your main color to draw attention to the most important elements on the page.
+1. Use colors to add interesting accents or make entire components or sections stand out.
+1. You can try to use your color strategically in images and illustrations.
+1. On dark colored backgrounds, try to use a tint of the background (lighter version) for text.
+1. `Text should usually not be completely black`. Lighten it up if it looks heavy and uninviting.
+1. Don't make text too light! Use a tool to check contrast between text and background colors. Tools like coolors will give you a `contrast ratio` which needs to be at least 4.5:1 for normal text and 3:1 for large text (18px+)
 
 ### Specific Colors
 
