@@ -5,7 +5,7 @@
 - [Google Fonts Website](https://fonts.google.com/)
 - [Type-Scale.com](https://type-scale.com/)
 
-## Important Properties for Text
+## Important CSS Properties for Text
 
 1. font-size
 1. line-height
@@ -196,3 +196,10 @@
 1. [Ionicons](https://ionic.io/ionicons)
 1. [ICONS8](https://icons8.com/)
 1. [heroicons](https://heroicons.com/)
+
+### Important CSS Properties
+
+1. stroke
+1. width
+1. height
+1. margin-bottom
