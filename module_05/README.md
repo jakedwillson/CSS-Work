@@ -229,3 +229,15 @@
 ### Important CSS Properties for Shadows
 
 1. `box-shadow (horizontal offset) (vertical offset) (blur) (scale) (color)`, example: `box-shadow: 20px 20px 20px 10px #000`
+
+## Border Radius
+
+### Use Border Radius Well
+
+1. Use border-radius to increase the playfulness and fun of the design, to make it less serious
+1. Typefaces have a certain roundness: make sure that border-radius matches that roundness
+1. Use border-radius on buttons, images, around icons, standout sections and other elements
+
+### Notes
+
+1. You can make an element round by giving it a border-radius of 50%
