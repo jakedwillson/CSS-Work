@@ -144,3 +144,32 @@
 1. With more experience, you can add more colors: accent colors (use a tool). There should be a relationship between the main and accent color, which is why you should use a tool
 1. For diversity, create lighter and darker "versions" - tints (lighter) and shades (darker)
 
+## Images
+
+### Use Good Images
+
+1. Different types of images: product photos, storytelling photos, illustrations, patterns.
+1. Use images to support your website's message and story. Only use relevant ones!
+1. Prefer original images. If not possible, use original-looking stock images (not generic ones!)
+1. Try to show real people to trigger users' emotions
+1. If necessary, crop images to fit your message
+
+### Resources for Authentic Images
+
+1. [Unsplash](https://unsplash.com/)
+1. [Pexels](https://www.pexels.com/)
+1. [DrawKit](https://drawkit.com/)
+1. [unDraw](https://undraw.co/)
+1. [Squoosh](https://squoosh.app/) allows you to reduce the file size of an image.
+
+### Handling Text on Images
+
+1. Method 1: Darken or brighten the image (completely or partially, using a gradient)
+1. Method 2: Position text into neutral image area
+1. Method 3: Put text in a box
+
+### Some Technical Details
+
+1. To account for high-res screens, make image dimensions 2x as big as their displayed size (if original is 600 x 600, displayed is 300 x 300)
+1. Compress images for a lower file size and better performance
+1. When using multiple images side-by-side, make sure that they have the exact same dimensions
