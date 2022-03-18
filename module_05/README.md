@@ -203,3 +203,25 @@
 1. width
 1. height
 1. margin-bottom
+
+## Shadows
+
+### General Concepts
+
+1. Originally, it was Skeuomorphic design (glassy/real-world ocean for example), but then it transitioned into flat design (minimal)
+1. After an era of 100% flat design, we are now back to using shadows in UI design (flat design 2.0 - still minimal, but brings back shadows and depth for better usability)
+1. Shadow creates depth (3D): the more shadow, the further away from the interface the element is
+
+### Use Shadows Well
+
+1. You don't have to use shadows! Only use them if it makes sense for the website personality (less shadow = serious/elegant; more shadow = playful/fun)
+1. Use shadows in small doses: don't add shadows to every element!
+1. Go light on shadows, don't make them too dark
+
+### Use Shadows In the Right Situation
+
+1. Use small shadows for smaller elements that should stand out (to draw attention)
+1. Use medium-sized shadows for larger areas that should stand out a bit more
+1. Use large shadows for elements that should really `float above` the interface (e.g., navigations and pop-up windows)
+1. Experiment with changing shadows on mouse interaction (click and hover). Medium-sized shadow "pulls" button closer to the user; smaller shadow "pushes" button back into the interface.
+1. Bonus: experiment with glows (colored shadows)
