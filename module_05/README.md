@@ -225,3 +225,7 @@
 1. Use large shadows for elements that should really `float above` the interface (e.g., navigations and pop-up windows)
 1. Experiment with changing shadows on mouse interaction (click and hover). Medium-sized shadow "pulls" button closer to the user; smaller shadow "pushes" button back into the interface.
 1. Bonus: experiment with glows (colored shadows)
+
+### Important CSS Properties for Shadows
+
+1. `box-shadow (horizontal offset) (vertical offset) (blur) (scale) (color)`, example: `box-shadow: 20px 20px 20px 10px #000`
