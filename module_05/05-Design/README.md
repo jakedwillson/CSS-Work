@@ -173,3 +173,25 @@
 1. To account for high-res screens, make image dimensions 2x as big as their displayed size (if original is 600 x 600, displayed is 300 x 300)
 1. Compress images for a lower file size and better performance
 1. When using multiple images side-by-side, make sure that they have the exact same dimensions
+
+## Icons
+
+### Rules
+
+1. Use a good icon pack, there are tons of free and paid icon packs.
+1. Use only one icon pack. Don't mix icons from different icon packs.
+1. Use SVG icons or icon fonts (since you can scale indefinitely). Don't use bitmap image formats (.jpg and .png)!
+1. Adjust to website personality! Roundness, weight and filled/outlined depend on typography.
+1. Use icons to provide visual assistance to text.
+1. Use icons for product feature blocks.
+1. Use icons associated with actions, and label them (unless no space or icon is 100% clear)
+1. Use icons as bullet points.
+1. To keep icons neutral, use same color as text. To draw more attention, use different color.
+1. Don't confuse your users: icons need to make sense and fit the text or action!
+1. Don't make icons larger than what they were designed for. If needed, enclose them in a shape.
+
+### Some Icon Packs
+
+1. [Phosphor Icons](https://phosphoricons.com/)
+1. [Ionicons](https://ionic.io/ionicons)
+1. [ICONS8](https://icons8.com/)
