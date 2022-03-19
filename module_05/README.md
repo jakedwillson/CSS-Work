@@ -13,33 +13,97 @@
 
 ## Website Personalities
 
+1. Serious/Elegant
+1. Minimalist/Simple
+1. Plain/Neutral
+1. Bold/Confident
+1. Calm/Peaceful
+1. Startup/Upbeat
+1. Playful/Fun
+
 ### Serious/Elegant
 
-- For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images
+- Overview: For luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images
+- Industries: real estate, high fashion, jewelry, luxury products or services
+- Typography: serif typefaces (especially in headings), light font weight, small body font size
+- Colors: gold, pastel colors, black, dark blue or grey
+- Images: big, high-quality images are used to feature elegant and expensive products
+- Icons: usually no icons, but thin icons and lines may be used
+- Shadows: usually no shadows
+- Border-Radius: usually no border radius
+- Layout: a creative and experimental layout is quite common
 
 ### Minimalist/Simple
 
-- Focuses on the essential text content, using small or medium-sized sans-serif black text, lines, and few images and icons
+- Overview: Focuses on the essential text content, using small or medium-sized sans-serif black text, lines, and few images and icons
+- Industries: fashion, portfolios, minimalism companies, software startups
+- Typography: boxy/squared sans-serif typefaces, small body font sizes
+- Colors: usually black or dark grey, on pure white background. Usually just one color throughout the design
+- Images: few images, which can be used to add some color to the design. Usually no illustrations, but if, then just black
+- Icons: usually no icons, but small simple black icons may be used
+- Shadows: usually no shadows
+- Border-Radius: usually no border-radius
+- Layout: simple layout, a narrow one-column layout is quite common
 
 ### Plain/Neutral
 
-- Design that gets out of the way by using neutral and small typefaces, and a very structured layout. Common in big corporations
+- Overview: Design that gets out of the way by using neutral and small typefaces, and a very structured layout. Common in big corporations
+- Industries: well-established corporations, companies that don't want to make an impact through design
+- Typography: neutral looking sans-serif typefaces are used, and text is usually small and doesn't have a visual impact
+- Colors: safe colors are employed, nothing too bright or too washed-out. Blues and blacks are common
+- Images: images are frequently used, but usually in a small format
+- Icons: usually no icons, but simple icons may be used
+- Shadows: usually no shadows
+- Border-Radius: usually no border-radius
+- Layout: structured and condensed layout, with lots of boxes and rows
 
 ### Bold/Confident
 
-- Makes an impact, by featuring big and bold typography, paired with confident use of big and bright colored blocks
+- Overview: Makes an impact, by featuring big and bold typography, paired with confident use of big and bright colored blocks
+- Industries: digital agencies, software startups, travel, "strong" companies
+- Typography: boxy/squared sans-serif typefaces, big and bold typography, especially headings. Uppercase headings are common
+- Colors: usually multiple bright colors. Big color blocks/sections are used to draw attention
+- Images: lots of big images are usually displayed
+- Icons: usually no icons
+- Shadows: usually no shadows
+- Border-Radius: usually no border-radius
+- Layout: all kinds of layouts. No particular tendencies
 
 ### Calm/Peaceful
 
-- For products and services that care, transmitted by calming pastel colors, soft serif headings, and matching images/illustrations
+- Overview: For products and services that care, transmitted by calming pastel colors, soft serif headings, and matching images/illustrations
+- Industries: healthcare; all products with a focus on consumer well-being
+- Typography: soft serif typefaces frequently used for headings, but sans-serif headings might be used too (e.g., for software products)
+- Colors: pastel/washed-out colors: light oranges, yellows, browns, greens, blues
+- Images: images and illustrations are usual, matching calm color palette
+- Icons: icons are quite frequent
+- Shadows: usually no shadows, bug might be used sparingly
+- Border-Radius: some border-radius is usual
+- Layout: all kinds of layouts, no particular tendencies
 
 ### Startup/Upbeat
 
-- Widely used in startups, featuring medium-sized sans-serif typefaces, light-grey text and backgrounds, and rounded elements
+- Overview: Widely used in startups, featuring medium-sized sans-serif typefaces, light-grey text and backgrounds, and rounded elements
+- Industries: software startups, and other modern-looking companies
+- Typography: medium-sized headings (not too large), usually one sans-serif typeface in whole design. Tendency for lighter text colors
+- Colors: blues, greens and purples are widely used. Lots of light backgrounds (mainly gray), gradients are also common
+- Images: images or illustrations are always used. 3D illustrations are modern. Sometimes patterns and shapes add visual details
+- Icons: icons are very frequent
+- Shadows: subtle shadows are frequent. Glows are becoming modern
+- Border-radius: border-radius is very common
+- Layout: rows of cards and Z-patterns are usual, as well as animations
 
 ### Playful/Fun
 
-- Colorful and round designs, fueled by creative elements like hand-drawn icons or illustrations, animations and fun language
+- Overview: Colorful and round designs, fueled by creative elements like hand-drawn icons or illustrations, animations and fun language
+- Industries: child products, animal products, food
+- Typography: round and creative (e.g., handwritten) sans-serif typefaces are frequent. Centered text is more common
+- Colors: multiple colors are frequently used to design a colorful layout, all over backgrounds and text
+- Images: images, hand drawn (or 3D) illustrations, and geometric shapes and patterns are all very frequently used
+- Icons: icons are very frequent, many times in a hand-drawn style
+- Shadows: subtle shadows are quite common, but not always used
+- Border-Radius: border-radius is quite common
+- Layout: all kinds of layouts, no particular tendencies
 
 ## Typography
 
