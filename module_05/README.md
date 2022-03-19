@@ -290,3 +290,41 @@
 1. Emphasize an important component using background color, shadow or border (or multiple)
 1. Try emphasizing some component A over component B by de-emphasizing component B
 1. What components to emphasize? Testimonials, call-to-action sections, highlight sections, preview cards, forms, pricing tables, important rows/columns in tables, etc.
+
+## What is User Experience (UX)
+
+### User Interface (UI)
+
+- UI is the visual presentation of a product. It's how the graphical interface looks and feels (layout/personality/typography)
+
+### User Experience (UX)
+
+- UX is the overall experience the user has while interacting with the product (does the app feel logical and well thought out? Does the navigation work intuitively? Are users reaching their goals?)
+
+### UI And UX Design
+
+- UI is what makes an interface beautiful
+- UX is what makes an interface useful and functional
+- UX design cannot exist without UI design
+
+### UX Design Guiding Principle: Goals
+
+- A website or application exists for a reason: a user has a goal for visiting it, and a business has a goal for creating it
+- Good UX design aligns the user's goals with the business' goals
+
+### UX Rules for Usability
+
+1. Don't design complicated layouts or reinvent the wheel. Use patterns that users know (like Amazon)
+1. Make your call-to-action the most prominent element, and make the text descriptive
+1. `Use blue text and underlined text only for links!`
+1. Animations should have a purpose and be fast: between 200 and 500 ms
+1. In forms, align labels and fields in a single vertical line, to make the form easier to scan
+1. Offer users good feedback for all actions: form errors, form success, etc. -- web apps
+1. Place action buttons where they will create an effect (law of locality) -- web apps (e.g., put the "Add Task" button at the bottom of the list if the new item will be added there, instead of some random part of the page)
+
+### UX Rules for Website Content
+
+1. Use a descriptive, keyword-focused headline on your main page. Don't be vague or fancy!
+1. Only include relevant information, efficiently! Cut out fluff and make the content 100% clear
+1. Use simple words! Avoid technical jargon and "smart sounding" words
+1. Break up long text with sub-headings, images, block quotes, bullet points, etc
