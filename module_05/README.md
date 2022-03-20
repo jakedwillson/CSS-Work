@@ -392,3 +392,14 @@
 1. Only include relevant information, efficiently! Cut out fluff and make the content 100% clear
 1. Use simple words! Avoid technical jargon and "smart sounding" words
 1. Break up long text with sub-headings, images, block quotes, bullet points, etc
+
+## The Missing Piece: Steal Like an Artist
+
+1. Not completely copying a design! It's about taking good parts and adapting them to our needs
+
+### Good Sources of Inspiration
+
+1. [land-book](https://land-book.com/)
+1. [onepagelove](https://onepagelove.com/inspiration)
+1. [awwwards](https://www.awwwards.com/websites/)
+1. [screenlane](https://screenlane.com/) for individual components
